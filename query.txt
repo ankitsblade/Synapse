@@ -1,0 +1,1 @@
+The process_data function is hard to read and could cause errors if the keys are missing. Can you refactor it to be safer by using .get() for dictionary access? Also, please add Python type hints and a proper docstring to explain what it does.
